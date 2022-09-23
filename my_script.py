@@ -1,4 +1,5 @@
-def funcion(a, b):
+def function(a, b):
     return a + b
 
-function(1, 5)
+result = function(1, 5)
+print(result)

@@ -1,3 +1,5 @@
+import xgboost
+
 def function(a, b):
     return a + b
 
